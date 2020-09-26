@@ -1,0 +1,15 @@
+.Card {
+    float: left;
+    width: 30%;
+    margin-top: 20px;  
+    margin-right:20px;
+    margin-left:20px;
+    margin-bottom:20px;
+  }
+  
+.Cardlist{
+list-style-type: none; 
+overflow: auto;
+margin-bottom: 50px;
+margin-left:10%
+}

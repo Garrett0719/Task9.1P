@@ -1,0 +1,28 @@
+.NavbarBody{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+.Navbartitle{
+    float: left;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:rgb(49, 125, 155);
+}
+.Button{
+    float: right;
+}
